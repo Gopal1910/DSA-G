@@ -1,4 +1,4 @@
-# 🚀 Java DSA G – Data Structures & Algorithms in Java
+# 🚀 DSA-G – Data Structures & Algorithms in Java
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![DSA](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-green)
