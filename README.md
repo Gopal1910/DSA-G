@@ -94,7 +94,7 @@ The code is organized topic-wise to make learning, revision, and practice more s
 ## 👨‍💻 Author
 
 **Gopal**  
-Aspiring Software Engineer | DSA Enthusiast  
+Gopal Full Stack AI Engineer | Mern Stack Developer  
 
 ---
 
